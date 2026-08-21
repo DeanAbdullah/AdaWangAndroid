@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AdaWang</string>
+    <string name="no_internet">Tiada sambungan internet. Sila cuba lagi.</string>
+    <string name="retry">Cuba Lagi</string>
+    <string name="loading">Memuatkan…</string>
+</resources>
