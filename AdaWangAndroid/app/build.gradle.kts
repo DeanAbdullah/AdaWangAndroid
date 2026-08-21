@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "my.adawang.app"
-        minSdk = 24
+        minSdk = 26  // Changed from 24 to 26 for adaptive-icon support
         targetSdk = 34
         versionCode = 2
         versionName = "1.1.0"
